@@ -19,7 +19,7 @@ const Head = () => {
           onClick={() => toggleMenuHandler()}
           className="h-12 cursor-pointer"
         />
-        <a href="/">
+        <a href="/youTubeApp">
           <img alt="logo" src={logo} className="h-12 mx-2" />
         </a>
       </div>
